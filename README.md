@@ -60,7 +60,7 @@ def max_marks(list1):
 ![output](./img/1.png)
 ### Program2:
 ![output](./img/2.png)
-### Program2:
+### Program3:
 ![output](./img/3.png)
 
 ## Result:
